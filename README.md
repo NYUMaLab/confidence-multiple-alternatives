@@ -1,4 +1,6 @@
-# confidence-multiple-alternatives
+# confidence-multiple-alternatives (Archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/hsinhungli/confidence-multiple-alternatives for possible updates.
 
 This repository accompanies the following paper:
 
